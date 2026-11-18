@@ -1,0 +1,10 @@
+# Alternative to Neo4j Desktop:  docker compose up -d   ->  browser UI at http://localhost:7474
+services:
+  neo4j:
+    image: neo4j:5-community
+    ports: ["7474:7474", "7687:7687"]
+    environment:
+      NEO4J_AUTH: neo4j/password123
+    volumes: ["neo4j_data:/data"]
+volumes:
+  neo4j_data:

@@ -1,0 +1,81 @@
+TEACHING CORPUS - CGST ACT 2017 (plain-language summaries, not the bare Act).
+Verify every figure against cbic-gst.gov.in before relying on it for real advice.
+
+## CGST Act 2017 | Section 2(98) | Definition of reverse charge
+"Reverse charge" means the liability to pay tax by the recipient of supply of goods or services or both instead of the supplier, under sub-section (3) or (4) of Section 9, or under Section 5(3)/5(4) of the IGST Act.
+
+## CGST Act 2017 | Section 9 | Levy and collection of tax
+Section 9(1) levies central tax on all intra-State supplies of goods or services or both (except alcoholic liquor for human consumption) at rates notified by the Government, not exceeding twenty per cent, payable by the taxable person.
+Section 9(3): the Government may, on the recommendation of the GST Council, notify categories of goods or services on which tax shall be paid on reverse charge basis by the recipient. All provisions of the Act apply to the recipient as if he were the person liable to pay tax. Services notified under Section 9(3) are listed in Notification 13/2017-Central Tax (Rate).
+Section 9(4): the Government may notify a class of registered persons who shall pay tax on reverse charge basis on specified supplies received from unregistered suppliers.
+Section 9(5): for notified services supplied through an electronic commerce operator, the e-commerce operator is liable to pay the tax.
+
+## CGST Act 2017 | Notification 13/2017-CT(Rate) | Services under reverse charge
+Issued under Section 9(3). Services on which the recipient pays GST under reverse charge include:
+(a) Services by a Goods Transport Agency (GTA) in respect of transportation of goods by road, where the GTA has not opted to pay tax under forward charge, when the recipient is a factory, society, co-operative society, registered person, body corporate, partnership firm or casual taxable person.
+(b) Legal services by an individual advocate or firm of advocates to a business entity.
+(c) Sponsorship services provided to a body corporate or partnership firm.
+(d) Services supplied by a director of a company to the company.
+(e) Security services by a person other than a body corporate to a registered person (with exceptions).
+The recipient must pay this tax in cash; input tax credit cannot be used to discharge reverse charge liability.
+
+## CGST Act 2017 | Section 10 | Composition levy
+A registered person whose aggregate turnover in the preceding financial year did not exceed Rs 1.5 crore (Rs 75 lakh in specified special category States) may opt to pay tax at a concessional composition rate instead of normal tax.
+A composition taxpayer shall not collect tax from recipients, shall not be entitled to any input tax credit, cannot make inter-State outward supplies of goods, and must issue a bill of supply instead of a tax invoice. Composition taxpayers file Form GSTR-4 annually and CMP-08 quarterly.
+Tax paid under the composition scheme is a blocked credit for the buyer under Section 17(5).
+
+## CGST Act 2017 | Section 16 | Eligibility and conditions for taking input tax credit
+Section 16(1): every registered person is entitled to take credit of input tax charged on supply of goods or services which are used or intended to be used in the course or furtherance of business.
+Section 16(2): no registered person shall be entitled to input tax credit unless ALL of the following are satisfied:
+(a) he is in possession of a tax invoice or debit note issued by the supplier;
+(aa) the details of the invoice have been furnished by the supplier in his statement of outward supplies (GSTR-1 under Section 37) and communicated to the recipient (inserted by Finance Act 2021);
+(b) he has received the goods or services;
+(ba) the details of input tax credit in respect of the supply are not restricted in the statement communicated under Section 38 (GSTR-2B) (inserted by Finance Act 2022);
+(c) the tax charged has been actually paid to the Government by the supplier, in cash or through utilisation of credit;
+(d) he has furnished the return under Section 39 (GSTR-3B).
+Proviso: where the recipient fails to pay the supplier the value of supply plus tax within 180 days from the date of invoice, the credit availed shall be reversed and paid along with interest under Section 50; credit can be re-availed on later payment.
+Section 16(4): a registered person cannot take input tax credit for any invoice after the 30th day of November following the end of the financial year to which the invoice relates, or the furnishing of the annual return, whichever is earlier (as amended by Finance Act 2022).
+Section 16 is subject to the restrictions in Section 17(5) (blocked credits).
+
+## CGST Act 2017 | Section 17(5) | Blocked credits
+Notwithstanding Section 16(1), input tax credit is NOT available in respect of:
+(a) motor vehicles for transportation of persons with approved seating capacity of not more than thirteen persons (including the driver), except when used for further supply of such vehicles, transportation of passengers, or imparting training on driving;
+(b) food and beverages, outdoor catering, beauty treatment, health services, cosmetic and plastic surgery, leasing or renting of motor vehicles, life insurance and health insurance - except where the inward supply is used for making an outward taxable supply of the same category, or where it is obligatory for an employer to provide it to employees under any law;
+(c) membership of a club, health and fitness centre; travel benefits extended to employees on vacation such as leave or home travel concession;
+(d) works contract services for construction of an immovable property (other than plant and machinery), except where it is an input service for further supply of works contract service;
+(e) goods or services received for construction of an immovable property (other than plant and machinery) on own account, even when used in the course of business;
+(f) goods or services on which tax has been paid under Section 10 (composition levy);
+(g) goods or services used for personal consumption;
+(h) goods lost, stolen, destroyed, written off, or disposed of by way of gift or free samples;
+(i) any tax paid in accordance with Sections 74, 129 and 130 (fraud demands, detention, confiscation).
+
+## CGST Act 2017 | Section 22 | Persons liable for registration
+Every supplier shall be liable to be registered in the State from where he makes a taxable supply if his aggregate turnover in a financial year exceeds Rs 20 lakh (Rs 10 lakh in specified special category States).
+By Notification 10/2019-Central Tax, the threshold is Rs 40 lakh for persons engaged exclusively in supply of goods, in States that have adopted it.
+
+## CGST Act 2017 | Section 24 | Compulsory registration in certain cases
+Notwithstanding the threshold in Section 22, the following persons must register irrespective of turnover:
+(i) persons making any inter-State taxable supply (with notified exemptions for small service providers);
+(ii) casual taxable persons;
+(iii) persons who are required to pay tax under reverse charge (Section 9(3));
+(iv) electronic commerce operators liable under Section 9(5);
+(v) non-resident taxable persons;
+(vi) persons required to deduct tax under Section 51;
+(vii) input service distributors;
+(viii) every electronic commerce operator required to collect tax at source under Section 52.
+
+## CGST Act 2017 | Section 31 | Tax invoice
+A registered person supplying taxable goods or services shall issue a tax invoice. A registered person paying tax under reverse charge on a supply received from an unregistered supplier shall issue a self-invoice. A composition taxpayer issues a bill of supply instead of a tax invoice.
+
+## CGST Act 2017 | Section 37 | Furnishing details of outward supplies
+Every registered person (other than composition taxpayers and certain others) shall furnish details of outward supplies in Form GSTR-1 by the 11th day of the following month (monthly filers) or the 13th day of the month following the quarter (QRMP scheme). These details are communicated to recipients and feed GSTR-2B, which is the basis for the recipient's eligibility under Section 16(2)(aa).
+
+## CGST Act 2017 | Section 39 | Furnishing of returns
+Every registered person shall furnish a return in Form GSTR-3B, generally by the 20th day of the following month for monthly filers (22nd or 24th of the month following the quarter for QRMP filers depending on State), and pay the tax due. Filing GSTR-3B is a condition for availing input tax credit under Section 16(2)(d).
+
+## CGST Act 2017 | Section 50 | Interest on delayed payment of tax
+Section 50(1): every person liable to pay tax who fails to pay within the prescribed period shall pay interest at a notified rate not exceeding 18% per annum, on the tax paid late (interest is on the net cash liability where the return is filed late).
+Section 50(3): where input tax credit has been wrongly availed AND utilised, interest is payable at a notified rate not exceeding 24% per annum; the notified rate is 18% per annum (Rule 88B). Interest also applies when credit is reversed under the 180-day proviso to Section 16(2).
+
+## CGST Act 2017 | Section 51 | Tax deduction at source (GST TDS)
+Specified government departments, local authorities and notified persons shall deduct tax at 2% (1% CGST + 1% SGST) from payments made to suppliers where the total value of supply under a contract exceeds Rs 2.5 lakh. The deductor files Form GSTR-7. GST TDS under Section 51 is different from income-tax TDS under the Income-tax Act.

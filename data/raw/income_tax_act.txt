@@ -1,0 +1,44 @@
+TEACHING CORPUS - INCOME-TAX ACT 1961 (plain-language summaries, not the bare Act).
+Important: the Income-tax Act, 2025 replaces the Income-tax Act, 1961 with effect from 1 April 2026 and renumbers provisions.
+Section numbers below are the 1961 Act numbers still used for FY 2025-26 and earlier years. Verify against incometaxindia.gov.in.
+
+## Income-tax Act 2025 | Act | Replacement of the 1961 Act
+The Income-tax Act, 2025 replaces the Income-tax Act, 1961 from 1 April 2026. It introduces the single concept of "tax year" in place of previous year / assessment year and consolidates TDS and TCS provisions into fewer sections. Obligations for financial years up to 2025-26 continue to be governed by the 1961 Act.
+
+## Income-tax Act 1961 | Section 194C | Payments to contractors
+Any person (other than an individual/HUF not liable to tax audit) responsible for paying any sum to a resident contractor for carrying out any work (including supply of labour, and carriage of goods or passengers by any mode of transport other than railways) shall deduct tax at source:
+- 1% where payment is to an individual or HUF;
+- 2% where payment is to any other person.
+No deduction if a single payment does not exceed Rs 30,000 and aggregate payments in the financial year do not exceed Rs 1,00,000.
+Section 194C(6): no deduction on payments to a contractor engaged in plying, hiring or leasing goods carriages, who owns ten or fewer goods carriages at any time during the year and furnishes a declaration with PAN.
+Payments to a transporter / Goods Transport Agency for freight therefore fall under Section 194C.
+Tax deducted is reported quarterly in Form 26Q and the deductee receives Form 16A.
+
+## Income-tax Act 1961 | Section 194J | Fees for professional or technical services
+Tax shall be deducted on fees for professional services, director's remuneration (other than salary), royalty and non-compete fees at 10%; and on fees for technical services, certain royalty for films, and payments to call centres at 2%.
+Threshold: Rs 50,000 per financial year for professional and technical fees (raised from Rs 30,000 by Finance Act 2025); no threshold for director's fees.
+Payment to an advocate for legal services falls under Section 194J. Reported in Form 26Q.
+
+## Income-tax Act 1961 | Section 194Q | TDS on purchase of goods
+A buyer whose total sales/turnover exceeded Rs 10 crore in the preceding financial year shall deduct TDS at 0.1% on purchase of goods from a resident seller on the amount exceeding Rs 50 lakh in a financial year.
+
+## Income-tax Act 1961 | Section 200 | Duty of person deducting tax
+Tax deducted must be deposited with the Government by the 7th of the following month (30 April for March deductions). Under Section 200(3) and Rule 31A, the deductor files quarterly TDS statements: Form 24Q for salaries and Form 26Q for other resident payments such as those under Sections 194C and 194J.
+
+## Income-tax Act 1961 | Section 201 | Consequences of failure to deduct or pay
+A person who fails to deduct, or after deducting fails to pay, tax is deemed an assessee in default. Section 201(1A): interest at 1% per month (or part) from the date tax was deductible to the date it is actually deducted, and 1.5% per month (or part) from the date of deduction to the date of actual payment.
+
+## Income-tax Act 1961 | Section 40(a)(ia) | Disallowance for non-deduction of TDS
+Thirty per cent (30%) of any sum payable to a resident on which tax is deductible under Chapter XVII-B (for example Sections 194C, 194J) shall be disallowed as a business expense if the tax has not been deducted, or after deduction has not been paid on or before the due date of filing the return under Section 139(1). The disallowed amount is allowed in the year in which the tax is subsequently deducted and paid.
+
+## Income-tax Act 1961 | Section 43B(h) | Payments to micro and small enterprises
+With effect from assessment year 2024-25, any sum payable to a micro or small enterprise beyond the time limit in Section 15 of the MSMED Act, 2006 (15 days, or up to 45 days where agreed in writing) is allowed as a deduction only in the year of actual payment.
+
+## Income-tax Act 1961 | Section 44AB | Tax audit
+A person carrying on business must get accounts audited if total sales/turnover exceeds Rs 1 crore. The limit is Rs 10 crore where aggregate cash receipts and cash payments each do not exceed 5% of the totals. A person carrying on a profession must get accounts audited if gross receipts exceed Rs 50 lakh. The audit report is furnished in Form 3CA/3CB with Form 3CD. Failure attracts penalty under Section 271B.
+
+## Income-tax Act 1961 | Section 44AD | Presumptive taxation for small business
+An eligible resident individual, HUF or partnership firm (not LLP) with business turnover up to Rs 2 crore (Rs 3 crore where cash receipts do not exceed 5% of turnover) may declare profit at 8% of turnover, or 6% for turnover received through digital/banking modes. A person opting for Section 44AD is not required to maintain books under Section 44AA or get a tax audit under Section 44AB, unless he opts out and declares lower income than the presumptive rate.
+
+## Income-tax Act 1961 | Section 271B | Penalty for failure to get accounts audited
+If a person required to get accounts audited under Section 44AB fails to do so, the penalty is 0.5% of total sales/turnover or gross receipts, subject to a maximum of Rs 1,50,000.

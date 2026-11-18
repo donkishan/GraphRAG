@@ -1,0 +1,23 @@
+# Core
+python-dotenv>=1.0
+numpy>=1.26
+networkx>=3.2
+pypdf>=4.0
+
+# Embeddings (runs locally, no API) -- all-MiniLM-L6-v2
+sentence-transformers>=3.0
+
+# LLM backend (Groq free tier). Ollama needs no extra package (plain HTTP).
+groq>=0.11
+requests>=2.31
+
+# Knowledge graph (optional: only needed when GRAPH_BACKEND=neo4j)
+neo4j>=5.20
+
+# UI
+streamlit>=1.38
+pyvis>=0.3.2
+pandas>=2.0
+
+# Tests
+pytest>=8.0
